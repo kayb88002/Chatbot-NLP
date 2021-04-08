@@ -69,6 +69,18 @@
         ]
       },
       {
+        "tag": "activity",
+        "patterns": [
+          "can you dance?",
+          "can you sing ?",
+          "can you run?"
+        ],
+        "responses": [
+          "Sorry , I am only build to provide an information to the user "
+          
+        ]
+      },
+      {
         "tag": "convo",
         "patterns": [
           "How can you help me?",
