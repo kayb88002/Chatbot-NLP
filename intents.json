@@ -69,6 +69,21 @@
         ]
       },
       {
+        "tag": "work",
+        "patterns": [
+          "What can you do for me?",
+          "what can you do?",
+          "why you are here?"
+        ],
+        "responses": [
+          "I am here to provide you an information related to ecommerce?",
+          "I can provide you an information related to ecommerce?"
+
+
+          
+        ]
+      },
+      {
         "tag": "activity",
         "patterns": [
           "can you dance?",
